@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chrome-launcher": "^0.15.2",
+    "csv-writer": "^1.6.0",
+    "lighthouse": "^10.2.0"
+  }
+}
